@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: jiggle_goobey
   m_EditorClassIdentifier: 
   gravityMultiplier: 0.18
-  friction: 0.271
+  friction: 0.407
   angleElasticity: 0.411
   blend: 1
   airDrag: 0.1
